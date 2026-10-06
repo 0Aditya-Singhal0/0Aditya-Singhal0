@@ -86,8 +86,8 @@ Open to conversations about AI systems engineering, backend and infrastructure r
 ## Links
 
 - [GitHub](https://github.com/0Aditya-Singhal0)
+- [LinkedIn](https://www.linkedin.com/in/aditya-x-singhal)
 - [ORCID](https://orcid.org/0000-0003-0623-7140)
-- LinkedIn: add the confirmed profile URL
 - Portfolio: add the confirmed portfolio URL
 - Resume: add the preferred public resume URL
 
