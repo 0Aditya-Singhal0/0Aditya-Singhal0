@@ -1,13 +1,6 @@
-<table width="100%">
-  <tr>
-    <td width="72%" valign="middle">
-      <img src="assets/header.svg" width="100%" alt="Aditya Singhal. AI systems, backend engineering, and robotics." />
-    </td>
-    <td width="28%" valign="middle">
-      <img src="assets/aditya.png" width="100%" alt="Portrait of Aditya Singhal" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Aditya Singhal with his portrait. AI systems, backend engineering, and robotics." />
+</p>
 
 <h1 align="center">Aditya Singhal</h1>
 
