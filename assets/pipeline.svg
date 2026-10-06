@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">
+  <title id="title">AI trainer inference pipeline</title>
+  <desc id="desc">Images or video pass through pose estimation, feature extraction and phase segmentation, reference comparison, and feedback generation. Simplified from the repository documentation.</desc>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#94A3B8"/></marker></defs>
+  <rect width="1000" height="240" rx="14" fill="#101827"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="28" y="38" fill="#5EEAD4" font-size="14" letter-spacing="2">AI TRAINER / SIMPLIFIED INFERENCE FLOW</text>
+    <g fill="#18263A" stroke="#51617B">
+      <rect x="28" y="72" width="160" height="100" rx="10"/><rect x="224" y="72" width="160" height="100" rx="10"/>
+      <rect x="420" y="72" width="160" height="100" rx="10"/><rect x="616" y="72" width="160" height="100" rx="10"/>
+      <rect x="812" y="72" width="160" height="100" rx="10"/>
+    </g>
+    <g stroke="#94A3B8" stroke-width="2" marker-end="url(#arrow)"><path d="M190 122H217"/><path d="M386 122H413"/><path d="M582 122H609"/><path d="M778 122H805"/></g>
+    <g fill="#F1F5F9" font-size="18" text-anchor="middle">
+      <text x="108" y="115">Input</text><text x="304" y="115">Pose estimation</text><text x="500" y="115">Features</text><text x="696" y="115">Comparison</text><text x="892" y="115">Feedback</text>
+    </g>
+    <g fill="#B8C6D9" font-size="14" text-anchor="middle">
+      <text x="108" y="142">Image or video</text><text x="304" y="142">MediaPipe</text><text x="500" y="142">Angles and phases</text><text x="696" y="142">Reference form</text><text x="892" y="142">Errors and advice</text>
+    </g>
+    <text x="28" y="210" fill="#B8C6D9" font-size="15">FastAPI exposes automatic and user-specified analysis endpoints.</text>
+  </g>
+</svg>
