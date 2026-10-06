@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Aditya Singhal. AI systems, backend engineering, and robotics." />
+  <img src="assets/aditya.png" width="280" alt="Portrait of Aditya Singhal" />
 </p>
 
 <h1 align="center">Aditya Singhal</h1>
